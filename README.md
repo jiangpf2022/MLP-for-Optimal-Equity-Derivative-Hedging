@@ -6,7 +6,7 @@
 This project presents a **Multi-Layer Perceptron (MLP)-based framework** for **optimal equity derivative hedging**, developed as part of our award-winning participation in the **Bay Area Data Science Summit 2025 (BADSS2025)**. 
 
 Our model leverages:
-- **Advanced deep learning techniques** to optimize hedging strategies.
+- **Multi-Layer Perceptron** to optimize hedging strategies.
 - **Real-time data processing** for dynamic risk management.
 - **Exposure-PnL mapping** to balance profitability and risk.
 - **A smart buy-sell greedy strategy** that adapts to market fluctuations.
