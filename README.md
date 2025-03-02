@@ -4,7 +4,7 @@
 Our work was recognized for **innovation, robustness, and practical financial applications** by experts from **UC Berkeley and Wells Fargo**.
 
 ## Overview
-This project presents a **Multi-Layer Perceptron (MLP)-based framework** for **optimal equity derivative hedging**, developed as part of our award-winning participation in the **Bay Area Data Science Summit 2025 (BADSS2025)**. Our team won the **1st Place Certificate**, competing against teams from **UC Berkeley, Stanford, UC Davis, and other top institutions**, and received high recognition from **UC Berkeley professors and industry experts from Wells Fargo**.
+This project presents a **Multi-Layer Perceptron (MLP)-based framework** for **optimal equity derivative hedging**, developed as part of our award-winning participation in the **Bay Area Data Science Summit 2025 (BADSS2025)**. 
 
 Our model leverages:
 - **Advanced deep learning techniques** to optimize hedging strategies.
