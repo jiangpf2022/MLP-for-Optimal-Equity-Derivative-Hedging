@@ -1,7 +1,6 @@
 # MLP-for-Optimal-Equity-Derivative-Hedging
 ## Award Recognition 🏆
-**1st Place Certificate** – **Bay Area Data Science Summit 2025 (BADSS2025)**  
-Our work was recognized for **innovation, robustness, and practical financial applications** by experts from **UC Berkeley and Wells Fargo**.
+**1st Place Certificate** – **Bay Area Data Science Summit 2025 (BADSS2025)** 
 
 ## Overview
 This project presents a **Multi-Layer Perceptron (MLP)-based framework** for **optimal equity derivative hedging**, developed as part of our award-winning participation in the **Bay Area Data Science Summit 2025 (BADSS2025)**. 
